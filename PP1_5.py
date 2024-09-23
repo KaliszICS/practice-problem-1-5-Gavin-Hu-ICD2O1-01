@@ -1,6 +1,11 @@
 
 def q1():
-input
+num = {input a integer"}
+num = int(num)
+input: (num)
+print f("num" + 3")
+       
+       
 def q2():
   #Write Assignment code here
 
